@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  bot_service:
+    build: .
+    env_file: .env
+
+
+  redis_servide:
+    image: redis:alpine
+    volumes:
+      - redis_db:/data
+
+volumes:
+  redis_db: { }

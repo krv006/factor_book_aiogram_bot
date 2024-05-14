@@ -1,0 +1,157 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-14 12:44+0500\n"
+"PO-Revision-Date: 2024-05-14 12:44+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers/contact.py:16 handlers/handlers.py:23
+msgid "🔵 Our social media"
+msgstr "🔵 Biz ijtimoiy tarmoqlarda"
+
+#: handlers/contact.py:22
+msgid ""
+"\n"
+"\n"
+"Telegram: @kamron_rustamov_dev\n"
+"📞  +{number}\n"
+"🤖 This bot made by Rustamov Kamron (@rv\n"
+msgstr ""
+"\n"
+"\n"
+"Telegram: @rustamov_kamron_dev\n"
+"📞  +{number}\n"
+"🤖 Ushbu bot  Rustamov Kamron tomonidan tayyorlandi (@erv)\n"
+
+#: handlers/handlers.py:21
+msgid "📚 Books"
+msgstr "📚 Kitoblar"
+
+#: handlers/handlers.py:22
+msgid "📃 My orders"
+msgstr "📃 Mening buyurtmalarim "
+
+#: handlers/handlers.py:24
+msgid "📞 Contact us"
+msgstr "📞 Biz bilan boglanish"
+
+#: handlers/handlers.py:25 handlers/handlers.py:40
+msgid "Change language"
+msgstr "Tilni o'zgartirish"
+
+#: handlers/handlers.py:31 handlers/handlers.py:56
+msgid "Welcome! Choose."
+msgstr "Xush kelibsiz! Tanlang"
+
+#: handlers/handlers.py:37
+msgid "🇺🇿uzbek"
+msgstr "🇺🇿O'zbekcha"
+
+#: handlers/handlers.py:38
+msgid "🇬🇧english"
+msgstr "🇬🇧Ingilizcha"
+
+#: handlers/handlers.py:39
+msgid "🇰🇷korean"
+msgstr "🇰🇷Koreyscha"
+
+#: handlers/handlers.py:48
+msgid "Uzbek"
+msgstr "O'zbek"
+
+#: handlers/handlers.py:50
+msgid "english"
+msgstr "Ingiliz"
+
+#: handlers/handlers.py:52
+msgid "Kores"
+msgstr "Koreyscha"
+
+#: handlers/handlers.py:53
+msgid "{lang} is selected"
+msgstr "{lang} tili tanlandi"
+
+#: handlers/handlers.py:70 handlers/handlers.py:139 handlers/handlers.py:381
+msgid "🔍Search"
+msgstr "🔍Qidirish"
+
+#: handlers/handlers.py:72 handlers/handlers.py:92 handlers/handlers.py:141
+#: handlers/handlers.py:315 handlers/handlers.py:383
+msgid "🛒 Basket({len_basket})"
+msgstr "🛒 Savat({len_basket})"
+
+#: handlers/handlers.py:75 handlers/handlers.py:318 handlers/handlers.py:386
+msgid "Choose category"
+msgstr "Kategoriya tanlang"
+
+#: handlers/handlers.py:94 handlers/handlers.py:119 handlers/handlers.py:164
+#: handlers/handlers.py:346 handlers/inline_mode.py:101
+msgid "⏪ Back"
+msgstr "⏪ Orqaga"
+
+#: handlers/handlers.py:120 handlers/handlers.py:347
+#: handlers/inline_mode.py:102
+msgid "🛒 Add to basket "
+msgstr "🛒 Savatga qo'shish"
+
+#: handlers/handlers.py:162
+msgid "❌ Clear the basket"
+msgstr "❌ Savatni tozalash"
+
+#: handlers/handlers.py:163
+msgid "✅ Confirm the order"
+msgstr "✅ Buyurtmani tasdiqlash"
+
+#: handlers/handlers.py:174
+msgid "Send phone number"
+msgstr "Telefon raqamni yuboring"
+
+#: handlers/handlers.py:205
+msgid "❌ Cancelled"
+msgstr "❌ Bekor qilindi"
+
+#: handlers/handlers.py:206
+msgid "Main manu"
+msgstr "Asosiy menu"
+
+#: handlers/handlers.py:248
+msgid "Dear customer! Thank you for your order.Order number: {order_count}"
+msgstr ""
+"Hurmatli mijoz! Buyurtmangiz uchun tashakkur.Buyurtma raqami: "
+"{order_count}"
+
+#: handlers/handlers.py:258
+msgid "<em>🎉 Your order number {order_count} has been accepted by the admin.</em>"
+msgstr ""
+"<em>🎉 Sizning {order_count} - buyurtmangiz admin tomonidan qabul "
+"qilindi.</em>"
+
+#: handlers/handlers.py:287
+msgid "You don't have any orders or ADMIN don't accept your order"
+msgstr "Sizda hozurcha buyurtmalar yo'q yoki admin qabul qilmagan"
+
+#: handlers/handlers.py:306
+msgid "Basket is cleared"
+msgstr "Savat tozalandi"
+
+#: handlers/handlers.py:337
+msgid "You can order at least 1 book"
+msgstr "Siz kamida 1 ta buyurtma bera olasiz"
+
+#: handlers/handlers.py:374
+msgid "Product added to basket"
+msgstr "Produktingiz basketga saqlandi"
+
