@@ -384,3 +384,6 @@ async def add_basket(callback: CallbackQuery):
                                      callback_data='basket'))
     ikb.adjust(2, repeat=True)
     await callback.message.answer(_('Choose category'), reply_markup=ikb.as_markup())
+
+
+#DOCKER 36d start
